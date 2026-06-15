@@ -1,6 +1,6 @@
-# Hi, I'm Kyle 👋
+kyle
 
-📍 **New York** &nbsp;|&nbsp; 🛠️ **Engineer & builder** &nbsp;|&nbsp; 🎚️ **Markets · Audio · Systems**
+📍 **New York** &nbsp;|&nbsp; 🛠️ **Engineer / Composer** &nbsp;|&nbsp; 🎚️ **Markets · Audio · Systems**
 
 Portfolio → **[0kyle.com](https://0kyle.com)**
 
