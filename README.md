@@ -36,6 +36,8 @@ Portfolio → **[0kyle.com](https://0kyle.com)**
 ## 🛠️ Systems & Tools
 
 - 📝 **[SimpleSiteEdit](https://github.com/VanKyle00/SimpleSiteEdit)** - Point it at a site folder for an instant local post editor
+- 🧪 **[numeric-grounding-evals](https://github.com/VanKyle00/numeric-grounding-evals)** - Eval suite for grounded LLM tool-use in numeric domains (Inspect AI)
+- 🧩 **[claude-skills](https://github.com/VanKyle00/claude-skills)** - A collection of personal Claude Code skills
 - ⚙️ **PowerShell sysadmin scripts** - Onboarding, cleanup, backup checks, and cert watchdogs _(private)_
 
 ---
