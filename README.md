@@ -20,7 +20,7 @@ Portfolio → **[0kyle.com](https://0kyle.com)**
 
 ## 🔬 Research & Models
 
-- 📊 **[trading-models](https://vankyle00.github.io/trading-models/docs/index.html)** - Systematic trading models on one shared backtest engine
+- 📊 **[trading-models](https://github.com/VanKyle00/trading-models)** - Systematic trading models on one shared backtest engine
 - 🃏 **[poker-game-sim](https://vankyle00.github.io/private-poker-game-sim/results/paper.html)** - Evolving the loosest-looking poker strategy that never goes broke
 - 🩺 **[belay](https://github.com/VanKyle00/Belay)** - Local-first patient monitoring on home cameras
 - 🧮 **[HDC](https://github.com/josephdprince/HDC)** - FPGA-accelerated hyper-dimensional computing for embedded ML _(collab)_
