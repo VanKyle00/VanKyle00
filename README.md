@@ -1,6 +1,6 @@
 # kyle van
 
-**Engineer** · New York, NY · open to full-time roles · collabs · coffee
+**Engineer** · New York, NY 
 
 I build across markets, audio/DSP, and local-first systems — shipping web apps, quant research, and developer tools. Portfolio: **[0kyle.com](https://0kyle.com)**
 
