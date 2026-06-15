@@ -1,52 +1,40 @@
-# kyle van
+# Hi, I'm Kyle 👋
 
-**Engineer** · New York, NY 
+📍 **New York** &nbsp;|&nbsp; 🛠️ **Engineer & builder** &nbsp;|&nbsp; 🎚️ **Markets · Audio · Systems**
 
-I build across markets, audio/DSP, and local-first systems — shipping web apps, quant research, and developer tools. Portfolio: **[0kyle.com](https://0kyle.com)**
+Portfolio → **[0kyle.com](https://0kyle.com)**
 
-### ▶ Live now
-
-**[sentimenty](https://sentimenty.xyz)** · **[fatchud](https://fatchud.me)** · **[options-watchlist](https://options-watchlist.vercel.app)** · **[trading-models — demo](https://van-kyle-00--trading-models-workbench-fastapi-app.modal.run/)** · **[odoro — beta](https://odoro.vercel.app/)** · **[portfolio](https://0kyle.com)**
-
-> `🟢 live` · `🔵 active` · `📂 source-available` · `🗄 archived`
-
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ## 🌐 Web Apps
 
-- **odoro** `🔵 active` — Music-sharing platform: share the exact moments you love, with models that explain why.
-  <br>`Next.js` · `Supabase` · `Modal` · `librosa` — [site (beta) ↗](https://odoro.vercel.app/)
-- **sentimenty** `🟢 live` — A crayon box for your words: score a phrase across seven tone dimensions, then nudge the sliders to rewrite it.
-  <br>`Next.js` · `React` · `Tailwind` — [site ↗](https://sentimenty.xyz)
-- **fatchud** `🟢 live` — Where to order delivery: nearby restaurants on a map, surfacing only the platforms that actually carry each one.
-  <br>`Next.js` · `TypeScript` · `MapLibre` · `Google Places` — [site ↗](https://fatchud.me) · [repo](https://github.com/VanKyle00/fatchud)
-- **options-watchlist** `🟢 live` — Paste an OptionStrat link, track your options portfolio with live P/L and price-history charts — no accounts, no database.
-  <br>`TypeScript` · `Vite` · `Vercel Functions` — [site ↗](https://options-watchlist.vercel.app) · [repo](https://github.com/VanKyle00/options-watchlist)
+- 🎵 **[odoro](https://odoro.vercel.app/)** - Music-sharing platform for the moments you love _(beta)_
+- 🖍️ **[sentimenty](https://sentimenty.xyz)** - Tone sliders for your prose
+- 🍔 **[fatchud](https://fatchud.me)** - Where to order delivery, across every platform at once
+- 📈 **[options-watchlist](https://options-watchlist.vercel.app)** - Track your options portfolio from a pasted link
 
 ## 🔬 Research & Models
 
-- **trading-models** `🟢 live` — A growing portfolio of systematic trading models on one shared backtest engine — with honest negative results.
-  <br>`Python` · `XGBoost` · `pandas` · `Streamlit` — [demo ↗](https://van-kyle-00--trading-models-workbench-fastapi-app.modal.run/) · [papers ↗](https://vankyle00.github.io/trading-models/docs/index.html) · [devlog ↗](https://vankyle00.github.io/trading-models/docs/devlog.html) · [repo](https://github.com/VanKyle00/trading-models)
-- **poker-game-sim** `📂 source` — An evolutionary search for the loosest-looking poker strategy that never goes broke — why playing GTO keeps you out of the soft games.
-  <br>`Python` · `PokerKit` · `Rust` · `NumPy` — [paper ↗](https://vankyle00.github.io/private-poker-game-sim/results/paper.html) · [repo](https://github.com/VanKyle00/private-poker-game-sim)
-- **belay** `📂 source` — Local-first patient monitoring on home cameras: watches for falls and heart-rate trends, texts family when it matters.
-  <br>`Python` · `RTSP` · `pose estimation` · `rPPG` — [repo](https://github.com/VanKyle00/Belay)
-- **HDC** `📂 source` — FPGA acceleration of Hyper-Dimensional Computing for embedded ML; the hot loop runs in hardware. *(collaboration)*
-  <br>`C` · `Vitis HLS` · `PYNQ-Z2` · `Python` — [repo](https://github.com/josephdprince/HDC)
+- 📊 **[trading-models](https://vankyle00.github.io/trading-models/docs/index.html)** - Systematic trading models on one shared backtest engine
+- 🃏 **[poker-game-sim](https://vankyle00.github.io/private-poker-game-sim/results/paper.html)** - Evolving the loosest-looking poker strategy that never goes broke
+- 🩺 **[belay](https://github.com/VanKyle00/Belay)** - Local-first patient monitoring on home cameras
+- 🧮 **[HDC](https://github.com/josephdprince/HDC)** - FPGA-accelerated hyper-dimensional computing for embedded ML _(collab)_
 
-## 🎚 Audio & DSP
+## 🎚️ Audio & DSP
 
-- **singing practice tool** `📂 source` — Solo vocal practice: sing to a backing track with live pitch on a piano roll, extract stems, turn takes into MIDI.
-  <br>`C++` · `JUCE` · `VST3` · `Demucs` · `basic-pitch` — [repo](https://github.com/VanKyle00/SingingPracticeTool)
-- **custom audio plugins** `🗄 archived` *(private)* — Commissioned VST3/AU work: compressors, saturators, spectral synths, and bespoke instruments for studios.
-  <br>`C++` · `JUCE` · `VST3` · `AU` · `DSP`
+- 🎤 **[singing practice tool](https://github.com/VanKyle00/SingingPracticeTool)** - Solo vocal practice with live pitch and stem extraction
+- 🎛️ **custom audio plugins** - Commissioned VST3/AU compressors, saturators, and synths _(private)_
 
-## 🛠 Systems & Tools
+## 🛠️ Systems & Tools
 
-- **PowerShell sysadmin scripts** `🗄 archived` *(private)* — Years of sysadmin glue: onboarding, termination cleanup, backup verification, cert watchdogs. Mostly deprecated now.
-  <br>`PowerShell` · `Active Directory` · `Exchange` · `Windows Server`
+- ⚙️ **PowerShell sysadmin scripts** - Onboarding, cleanup, backup checks, and cert watchdogs _(private)_
 
 ---
 
-**Stack:** `TypeScript` · `Python` · `C++ / JUCE` · `Rust` · `Next.js` · `FPGA / HLS`
-<br>**Find me:** [GitHub](https://github.com/VanKyle00) · [0kyle.com](https://0kyle.com)
+**Find me:** [GitHub](https://github.com/VanKyle00) · [0kyle.com](https://0kyle.com)
