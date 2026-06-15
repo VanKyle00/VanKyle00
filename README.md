@@ -30,10 +30,12 @@ Portfolio → **[0kyle.com](https://0kyle.com)**
 
 - 🎼 **[band-transcriber](https://github.com/VanKyle00/band-transcriber)** - Turn any song into stems, sheet music, tabs, and MIDI in the browser
 - 🎤 **[singing practice tool](https://github.com/VanKyle00/SingingPracticeTool)** - Solo vocal practice with live pitch and stem extraction
+- ✂️ **[SongSlice](https://github.com/VanKyle00/SongSlice)** - Slice a track into labelled A/B/C sections, locally
 - 🎛️ **custom audio plugins** - Commissioned VST3/AU compressors, saturators, and synths _(private)_
 
 ## 🛠️ Systems & Tools
 
+- 📝 **[SimpleSiteEdit](https://github.com/VanKyle00/SimpleSiteEdit)** - Point it at a site folder for an instant local post editor
 - ⚙️ **PowerShell sysadmin scripts** - Onboarding, cleanup, backup checks, and cert watchdogs _(private)_
 
 ---
