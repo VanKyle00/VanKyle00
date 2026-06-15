@@ -28,6 +28,7 @@ Portfolio → **[0kyle.com](https://0kyle.com)**
 
 ## 🎚️ Audio & DSP
 
+- 🎼 **[band-transcriber](https://github.com/VanKyle00/band-transcriber)** - Turn any song into stems, sheet music, tabs, and MIDI in the browser
 - 🎤 **[singing practice tool](https://github.com/VanKyle00/SingingPracticeTool)** - Solo vocal practice with live pitch and stem extraction
 - 🎛️ **custom audio plugins** - Commissioned VST3/AU compressors, saturators, and synths _(private)_
 
