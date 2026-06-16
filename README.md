@@ -17,6 +17,7 @@ Portfolio → **[0kyle.com](https://0kyle.com)**
 - 🖍️ **[sentimenty](https://sentimenty.xyz)** - Tone sliders for your prose
 - 🍔 **[fatchud](https://fatchud.me)** - Where to order delivery, across every platform at once
 - 📈 **[options-watchlist](https://options-watchlist.vercel.app)** - Track your options portfolio from a pasted link
+- 🎸 **[keeppracticing](https://keeppracticing.xyz)** - Guided guitar practice drills, right in your browser
 
 ## 🔬 Research & Models
 
